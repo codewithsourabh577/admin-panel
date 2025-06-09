@@ -1,0 +1,50 @@
+#navbar1 a{
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: black;
+}
+
+
+#hero{
+    background-image: url("https://startbootstrap.github.io/startbootstrap-grayscale/assets/img/bg-masthead.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+#hero h1{
+    font-size: 6rem;
+    color:black;
+}
+
+#hero button{
+    padding: 1rem;
+    background-color: rgb(105, 151, 136);
+    width: 10rem;
+    font-size: 1.2rem;
+    margin: 1rem;
+}
+
+#maggie{
+    margin: 3rem;
+}
+
+#about{
+    background-color: rgb(12, 12, 12);
+    color: white;
+}
+
+#photo{
+    background-image: url("https://startbootstrap.github.io/startbootstrap-grayscale/assets/img/bg-masthead.jpg");
+    height: 20rem;
+    background-size: cover;
+    background-position: center;
+}
+
+#block{
+    background-color: black;
+    height: 20rem;
+    width: 41rem;
+    color: white;
+}
